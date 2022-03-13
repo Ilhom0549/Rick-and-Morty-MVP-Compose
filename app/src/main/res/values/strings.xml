@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rick and Morty MVP Compose</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>

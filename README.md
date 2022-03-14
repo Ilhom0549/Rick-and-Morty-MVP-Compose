@@ -1,5 +1,5 @@
-# Rick-and-Morty-MVP-Compose
-Rick and Morty Mvp Architecture Pattern
+# Rick-and-Morty App
+Rick and Morty 
 
 <H2>Tech Stack</H2>
 

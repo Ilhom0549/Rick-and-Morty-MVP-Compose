@@ -68,7 +68,7 @@ fun CharacterItem(character: Result, startDetails: (Int) -> Unit) {
             Image(
                 painter = rememberAsyncImagePainter(character.image),
                 contentDescription = null,
-                contentScale = ContentScale.Crop,
+                contentScale = ContentScale.FillBounds,
                 modifier = Modifier
                     .size(150.dp, 150.dp)
 

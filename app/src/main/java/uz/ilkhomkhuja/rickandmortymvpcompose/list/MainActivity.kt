@@ -70,7 +70,7 @@ fun CharacterItem(character: Result, startDetails: (Int) -> Unit) {
                 contentDescription = null,
                 contentScale = ContentScale.Crop,
                 modifier = Modifier
-                    .size(120.dp, 120.dp)
+                    .size(150.dp, 150.dp)
 
             )
         }

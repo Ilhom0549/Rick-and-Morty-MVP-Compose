@@ -2,7 +2,7 @@
 This application sample The Ricky And Morty app         
 that implements MVP Architecture using Jetpack Compose,Coroutines,Retrofit and Coil
 
-<H2>Tech Stack</H2>
+<H2>Tech Stack and Library</H2>
 
 - Kotlin
 - MVP

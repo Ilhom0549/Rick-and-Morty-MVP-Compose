@@ -8,4 +8,3 @@ Rick and Morty Mvp Architecture Pattern
 - Jetpack Compose
 - Kotlin Coroutines
 - Coil
-- 

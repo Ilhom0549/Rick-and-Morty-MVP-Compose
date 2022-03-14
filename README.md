@@ -1,5 +1,5 @@
 # Rick-and-Morty App
-This application sample The Ricky And Morty app \n
+This application sample The Ricky And Morty app         
 that implements MVP Architecture using Jetpack Compose,Coroutines,Retrofit and Coil
 
 <H2>Tech Stack</H2>

@@ -8,4 +8,6 @@ that implements MVP Architecture using Jetpack Compose,Coroutines,Retrofit and C
 - MVP
 - Jetpack Compose
 - Kotlin Coroutines
+- Retrofit 2
+- Okhttp3 logging interceptor
 - Coil
